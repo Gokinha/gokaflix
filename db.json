@@ -1,0 +1,9 @@
+{
+  "categorias": [
+    {
+      "nome": "Front end",
+      "descricao": "Uma categoria",
+      "cor": "#cbd1ff"
+    }
+  ]
+}
