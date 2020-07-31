@@ -5,6 +5,12 @@
       "nome": "Front end",
       "descricao": "Uma categoria",
       "cor": "#cbd1ff"
+    },
+    {
+      "id": 2,
+      "nome": "Back end",
+      "descricao": "Uma categoria",
+      "cor": "#cbd1ff"
     }
   ]
 }

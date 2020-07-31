@@ -38,6 +38,7 @@ function CadastroCategoria() {
         .then(async (respostaDoServer) => {
           if (respostaDoServer.ok) {
             const resposta = await respostaDoServer.json();
+            console.log(resposta);
             setCategorias(resposta);
             return;
           }
